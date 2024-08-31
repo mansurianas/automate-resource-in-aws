@@ -1,0 +1,1 @@
+# automate-resource-in-aws
